@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   LinkedIn: https://www.linkedin.com/in/jose-f-alfaro/
   Email: Jose.Alfaro@UTDallas.edu
+  <br><br>
   <a href="https://www.linkedin.com/in/jose-f-alfaro/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
