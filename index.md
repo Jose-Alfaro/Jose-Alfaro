@@ -8,8 +8,8 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Forcasting Chicago Taxi Industry](/pdf/sample_presentation.pdf)
-<video src="images/04elx.mp4?raw=true"/>
+[Crime Rates In Cincinnati](/pdf/sample_presentation.pdf)
+<img src="images/ViolentCrimes.PNG?raw=true"/>
 
 ---
 [Class Scores Application](https://josealfaro.shinyapps.io/Class_Shiny_App/)
