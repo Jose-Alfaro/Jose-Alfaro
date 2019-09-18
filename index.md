@@ -9,7 +9,7 @@
 
 ---
 [Forcasting Chicago Taxi Industry](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video src="images/04elx.mp4?raw=true"/>
 
 ---
 [Class Scores Application](https://josealfaro.shinyapps.io/Class_Shiny_App/)
