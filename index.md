@@ -8,7 +8,7 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Crime Rates In Cincinnati](/pdf/sample_presentation.pdf)
+[Crime Rates In Cincinnati](/pdf/Police Project.pdf)
 <img src="images/ViolentCrimes.PNG?raw=true"/>
 
 ---
