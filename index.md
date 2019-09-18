@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Mapping Earthquake Locations and Magnitude in Taiwan Using R Shiny](https://josealfaro.shinyapps.io/Taiwan_Earthquake_Project/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
