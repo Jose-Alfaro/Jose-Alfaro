@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Class Scores Application](https://josealfaro.shinyapps.io/Class_Shiny_App/)
-<img src="images/ClassScores.PNG?raw=true"/>
+[Mapping Earthquake Locations and Magnitude in Taiwan Using R Shiny](https://josealfaro.shinyapps.io/Taiwan_Earthquake_Project/)
+<img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Forcasting Chicago Taxi Industry](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Mapping Earthquake Locations and Magnitude in Taiwan Using R Shiny](https://josealfaro.shinyapps.io/Taiwan_Earthquake_Project/)
-<img src="images/Earthquake.PNG?raw=true"/>
+[Class Scores Application](https://josealfaro.shinyapps.io/Class_Shiny_App/)
+<img src="images/ClassScores.PNG?raw=true"/>
 
 ---
 
