@@ -17,7 +17,7 @@
 
 ---
 [Forecasting the Taxi Industry In Chicago](https://josealfaro.shinyapps.io/Class_Shiny_App/)
-<img src="images/ClassScores.PNG?raw=true"/>
+<img src="images/Moving Average.PNG?raw=true"/>
 ---
 
 ### Category Name 2
