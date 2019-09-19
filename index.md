@@ -8,7 +8,7 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Forecasting the Taxi Industry In Chicago](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/README.md)
+[Forecasting the Taxi Industry In Chicago](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/README.md#Competition)
 <img src="images/Moving Average.PNG?raw=true"/>
 
 ---
