@@ -8,16 +8,17 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Crime Rates In Cincinnati](/pdf/Police_Report.pdf)
-<img src="images/ViolentCrimes.PNG?raw=true"/>
+[Forecasting the Taxi Industry In Chicago](https://josealfaro.shinyapps.io/Class_Shiny_App/)
+<img src="images/Moving Average.PNG?raw=true"/>
 
 ---
 [Class Scores Application](https://josealfaro.shinyapps.io/Class_Shiny_App/)
 <img src="images/ClassScores.PNG?raw=true"/>
 
 ---
-[Forecasting the Taxi Industry In Chicago](https://josealfaro.shinyapps.io/Class_Shiny_App/)
-<img src="images/Moving Average.PNG?raw=true"/>
+[Crime Rates In Cincinnati](/pdf/Police_Report.pdf)
+<img src="images/ViolentCrimes.PNG?raw=true"/>
+
 ---
 
 ### Category Name 2
