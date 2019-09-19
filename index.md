@@ -23,11 +23,11 @@
 
 ### Machine Learning Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [KNN](http://example.com/)
+- [LDA & QDA](http://example.com/)
+- [Linear Vs. Logistc Regression](http://example.com/)
+- [PCA and Dimension Reduction](http://example.com/)
+- [K-Means & Hierarchical Clustering](http://example.com/)
 
 ---
 
