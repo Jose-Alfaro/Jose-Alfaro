@@ -2,7 +2,7 @@
 
 ---
 
-### Recent Projects 
+### Statistics Projects 
 
 [Mapping Earthquake Locations and Magnitude in Taiwan Using R Shiny](https://josealfaro.shinyapps.io/Taiwan_Earthquake_Project/)
 <img src="images/Earthquake.PNG?raw=true"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
