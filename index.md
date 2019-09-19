@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
 [Mapping Earthquake Locations and Magnitude in Taiwan Using R Shiny](https://josealfaro.shinyapps.io/Taiwan_Earthquake_Project/)
 <img src="images/Earthquake.PNG?raw=true"/>
