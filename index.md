@@ -8,7 +8,7 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Forecasting the Taxi Industry In Chicago]([link](Chicago-Taxi/README.md))
+[Forecasting the Taxi Industry In Chicago]([link](Chicago/README.md))
 <img src="images/Moving Average.PNG?raw=true"/>
 
 ---
