@@ -1,10 +1,7 @@
 title: Jose Alfaro # your name (or website title) here
 logo: "/images/me2.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello and welcome to my personal website. Here I display some of my previous work involving data science and statistics.
-  Second description 
-  <br><br>
-  LinkedIn: https://www.linkedin.com/in/jose-f-alfaro/
+  Hello and welcome to my personal website! I am currently a second year PhD student in statistics at the University of Texas at Dallas. I have a strong passion for statistics/data science and love to see how their applications influence the world around us. Here I display some of my previous work involving forecasting with time series, implementing statistical and machine learning algorithms, and visual production via Shiny and Ploty.
   <br><br>
   Email: Jose.Alfaro@UTDallas.edu
   <br><br>
