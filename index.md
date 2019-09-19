@@ -8,7 +8,7 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Forecasting the Taxi Industry In Chicago](https://josealfaro.shinyapps.io/Class_Shiny_App/)
+[Forecasting the Taxi Industry In Chicago]([link](chicago-taxi/README.md))
 <img src="images/Moving Average.PNG?raw=true"/>
 
 ---
