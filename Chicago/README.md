@@ -9,6 +9,9 @@ The data does not include any direct information about rides with Uber or Lyft i
 Interest centers on building visualizations and predictive models explaining how the Chicago taxi business has changed over time. In particular, contestants are asked to consider how hourly, daily and weekly revenue and trips for a typical Chicago taxi have changed over both location and time. By “a typical Chicago taxi”, we mean to imply the median value. For example, we understand “weekly revenue for a typical Chicago taxi” to mean the median weekly revenue for Chicago taxis. In other words, if we calculated the weekly revenue for each Chicago taxi, then we would consider the median for each week as the target value.  
 The data from 2013 through 2016 shall be used for training predictive models, while the data from 2017 shall be used for testing the efficacy of the predictive models built using the training data.  
 
+## Report 
+* [Competition Report](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/Report.pdf)
+
 ## Info Links
 * [Competition info](http://tamids.tamu.edu/2018-tamids-data-science-competition/#overview)
 * [Subsetted Data](https://drive.google.com/open?id=1cFgq4giDQih78XvahQ_RjD60ObF-yUOS)
