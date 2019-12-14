@@ -23,3 +23,9 @@ The data from 2013 through 2016 shall be used for training predictive models, wh
 * [Pickup Density (Day)](https://streamable.com/ve4fk)
 * [Predicted Density (Month)](https://streamable.com/uyezj)
 * [Predicted Density (Day)](https://streamable.com/jakyi)
+
+## Code Links
+* [Forecasting Prep](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/CleanedTimeSeries.R)
+* [ARIMA Models](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/Final_ARIMA.R)
+* [Pick Up Data Prep](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/PickupData.R)
+* [Random Forest Implementation](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/Random%20Forest.ipynb)
