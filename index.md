@@ -21,9 +21,9 @@
 
 ---
 
-### Machine Learning Projects
+### Side Projects
 
-- [KNN](http://example.com/)
+- [NFL Exploration](http://example.com/)
 - [LDA & QDA](http://example.com/)
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](http://example.com/)
