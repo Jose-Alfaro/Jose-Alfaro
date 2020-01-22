@@ -21,7 +21,7 @@
 
 ---
 
-### Side Projects
+### Blog
 
 - [NFL Exploration](http://example.com/)
 - [LDA & QDA](http://example.com/)
