@@ -22,8 +22,10 @@
 ---
 
 ### Blog
+- [Forecasting The Coronavirus](http://example.com/)
 
-- [NFL Exploration](http://example.com/)
+
+- [NFL Exploration](https://theoutlier.netlify.com/2020/03/corona-virus/)
 - [LDA & QDA](http://example.com/)
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](http://example.com/)
