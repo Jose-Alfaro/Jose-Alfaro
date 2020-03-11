@@ -21,7 +21,7 @@
 
 ---
 
-### Blog
+### [Blog](https://theoutlier.netlify.com/)
 - [Forecasting The Coronavirus](https://theoutlier.netlify.com/2020/03/corona-virus/)
 - [NFL Quarterback Analysis](https://theoutlier.netlify.com/2020/01/nfl-quarterback/)
 - [NFL Wide Receiver Analysis](https://theoutlier.netlify.com/2020/01/nfl-wide-receiver/)
