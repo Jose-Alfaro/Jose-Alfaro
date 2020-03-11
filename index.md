@@ -38,7 +38,9 @@
 - [K-Means & Hierarchical Clustering](http://example.com/)
 
 ---
+### References
 
+- [Kevin Lutz](https://www.facebook.com/kevin.lutz1979)
 
 
 
