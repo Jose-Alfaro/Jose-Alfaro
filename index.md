@@ -27,7 +27,10 @@
 - [NFL Wide Receiver Analysis](https://theoutlier.netlify.com/2020/01/nfl-wide-receiver/)
 - [NFL Runningback Analysis](https://theoutlier.netlify.com/2020/01/nfl-running-back-analysis/)
 
-- [NFL Exploration]()
+---
+
+### Machine Learning Class Reports
+- [KNN](Machine Learning/Project_1_Report.pdf)
 - [LDA & QDA](http://example.com/)
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](http://example.com/)
