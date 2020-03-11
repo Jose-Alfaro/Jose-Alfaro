@@ -8,7 +8,7 @@
 <img src="images/Earthquake.PNG?raw=true"/>
 
 ---
-[Forecasting the Taxi Industry In Chicago](https://github.com/Jose-Alfaro/Jose-Alfaro/blob/master/Chicago/README.md#Competition Description)
+[Forecasting the Taxi Industry In Chicago](Chicago/README.md)
 <img src="images/Moving Average.PNG?raw=true"/>
 
 ---
@@ -31,7 +31,8 @@
 
 ### Machine Learning Class Reports
 - [KNN](Machine Learning/Project_1_Report.pdf)
-- [LDA & QDA](http://example.com/)
+- [Linear Regression](Machine Learning/Project_2_Report.pdf)
+- [LDA & QDA](Machine Learning/Project_3_Report.pdf)
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](http://example.com/)
 - [K-Means & Hierarchical Clustering](http://example.com/)
