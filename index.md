@@ -22,10 +22,12 @@
 ---
 
 ### Blog
-- [Forecasting The Coronavirus](http://example.com/)
+- [Forecasting The Coronavirus](https://theoutlier.netlify.com/2020/03/corona-virus/)
+- [NFL Quarterback Analysis](https://theoutlier.netlify.com/2020/01/nfl-quarterback/)
+- [NFL Wide Receiver Analysis](https://theoutlier.netlify.com/2020/01/nfl-wide-receiver/)
+- [NFL Runningback Analysis](https://theoutlier.netlify.com/2020/01/nfl-running-back-analysis/)
 
-
-- [NFL Exploration](https://theoutlier.netlify.com/2020/03/corona-virus/)
+- [NFL Exploration]()
 - [LDA & QDA](http://example.com/)
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](http://example.com/)
