@@ -36,6 +36,7 @@
 - [Linear Vs. Logistc Regression](http://example.com/)
 - [PCA and Dimension Reduction](Machine Learning/Project_5_Report.pdf)
 - [K-Means & Hierarchical Clustering](http://example.com/)
+- [Support Vector Machines, Polynomial Regression, and Smoothening](Machine Learning/FINAL Report.pdf)
 
 ---
 
