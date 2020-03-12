@@ -34,14 +34,9 @@
 - [Linear Regression](Machine Learning/Project_2_Report.pdf)
 - [LDA & QDA](Machine Learning/Project_3_Report.pdf)
 - [Linear Vs. Logistc Regression](http://example.com/)
-- [PCA and Dimension Reduction](http://example.com/)
+- [PCA and Dimension Reduction](Machine Learning/Project_5_Report.pdf)
 - [K-Means & Hierarchical Clustering](http://example.com/)
 
 ---
-### References
-
-- [Kevin Lutz](https://www.facebook.com/kevin.lutz1979)
-
-
 
 ---
