@@ -7,21 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Here I display some of my previous work involving forecasting with time series, implementing statistical and machine learning algorithms, and visual production via Shiny and Ploty.
  
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br> 
+
   Email: Jose.Alfaro@UTDallas.edu
   <br><br>
   <a href="https://www.linkedin.com/in/jose-f-alfaro/">View My LinkedIn Profile</a> 
   
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br> 
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br> 
+
 theme: jekyll-theme-leap-day
 google_analytics: UA-159946317-2 # your Google Analytics tracking ID here
