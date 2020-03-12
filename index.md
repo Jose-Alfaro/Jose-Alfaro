@@ -32,10 +32,10 @@
 ### Machine Learning Class Reports
 - [KNN](Machine Learning/Project_1_Report.pdf)
 - [Linear Regression](Machine Learning/Project_2_Report.pdf)
-- [LDA & QDA](Machine Learning/Project_3_Report.pdf)
-- [Linear Vs. Logistc Regression](http://example.com/)
+- [LDA and QDA](Machine Learning/Project_3_Report.pdf)
+- [Linear Regression, Logistc Regression, LDA, and QDA](Machine Learning/Project_4_Report.pdf)
 - [PCA and Dimension Reduction](Machine Learning/Project_5_Report.pdf)
-- [K-Means & Hierarchical Clustering](http://example.com/)
+- [K-Means & Hierarchical Clustering](Machine Learning/Project_6_Report.pdf)
 - [Support Vector Machines, Polynomial Regression, and Smoothening](Machine Learning/FINAL REPORT.pdf)
 
 ---
